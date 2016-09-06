@@ -1,4 +1,8 @@
 Learning Playground
 ===================
 
-- Python
+Python
+-------------------
+- ipdb
+- http, websocket
+- aync
