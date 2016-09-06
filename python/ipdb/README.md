@@ -36,8 +36,9 @@ commands
 usage
 ----------------
 
-
+~~~~pdb
 break 2 # breakpoint created for line 2
 
 break 2, k < 0 # breakpoint created if k < 0
+~~~~
 
