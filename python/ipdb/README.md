@@ -6,18 +6,17 @@ to run pdb
 
 Set trace directly in the code
 
-
-'''
+~~~~
 import pdb; pdb.set_trace()
-'''
+~~~~
 
 Or start a script with pdb directly:
 
-'''
+~~~~
 
 python -m pdb example.py
 
-'''
+~~~~
 
 commands
 ---------------
