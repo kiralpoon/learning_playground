@@ -12,7 +12,7 @@ import pdb; pdb.set_trace()
 
 Or start a script with pdb directly:
 
-~~~~python
+~~~~bash
 
 python -m pdb example.py
 
